@@ -1,0 +1,4 @@
+1. Create index.html file
+2. Open Jquerymobile app and copy 3 links and paste to head tag under meta 
+3. Make simple html code
+4.Open inspect and show responsiveness
